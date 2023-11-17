@@ -1,4 +1,4 @@
-import 'capturanumerosmultiplos.dart';
+import 'utilidadesNumeros.dart';
 
 int executaCalculo (int numeroDigitado){
   List<int> numerosMultiplos = capturaNumerosMultiplos(numeroDigitado);

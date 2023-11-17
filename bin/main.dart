@@ -1,6 +1,6 @@
+import 'ui.dart';
+import 'utilidadesNumeros.dart';
 import 'executacalculo.dart';
-import 'exibimensagens.dart';
-import 'validanumero.dart';
 
 void main() {
 
